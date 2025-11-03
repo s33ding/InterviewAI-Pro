@@ -1,9 +1,9 @@
 {
-  "topic_name": "linear_models",
-  "source_folder": "/home/roberto/Obsidian/iesb/linear_models/conceitos",
-  "num_questions": 5,
-  "output_dir": "questions",
-  "extracted_content_path": "questions/linear_models_extracted_content.txt",
-  "questions_path": "questions/linear_models_questions.md",
-  "quiz_path": "questions/linear_models_quiz.py"
+  "topic_name": "sampling",
+  "source_folder": "/home/roberto/Obsidian/iesb/sampling",
+  "num_questions": 10,
+  "output_dir": "/tmp/sampling",
+  "extracted_content_path": "/tmp/sampling/sampling_extracted_content.txt",
+  "questions_path": "/tmp/sampling/sampling_questions.md",
+  "quiz_path": "/tmp/sampling/sampling_quiz.py"
 }

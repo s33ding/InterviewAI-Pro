@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="repo_media/generated_image_20251102_223619_3.png" alt="InterviewAI-Pro Logo" width="400">
+</div>
+
 # InterviewAI-Pro
 
 InterviewAI-Pro is an AI-powered technical interview prep platform that transforms educational content into interactive quizzes and questions.

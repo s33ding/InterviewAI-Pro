@@ -1,0 +1,77 @@
+> # Educational Content Summary: Sampling Methods
+
+## File 1: Amostragem Sistemática, Simple, Conglomerado.md
+
+### Systematic Sampling (Amostra Sistemática)
+Key Concepts:
+• **Definition**: Method where researcher selects a random starting point, then selects every nth element at regular intervals
+• **Process**: For population of 1000 wanting sample of 100, select every 10th individual (1000/100 = 10)
+• **Advantages**: Easy to use, ensures uniform distribution across population
+• **Disadvantages**: Can introduce bias if there's a regular pattern in population listing that matches sample interval
+• **Important Warning**: Should not be used when element order has significance
+
+### Simple Sampling (Amostra Simples)
+Note: Section header present but content not provided in the file
+
+### Cluster Sampling (Amostragem por Conglomerado)
+Key Concepts:
+1. Definition: Population divided into groups (clusters), then random sample of groups selected
+2. Purpose: Obtain representative sample of total population, especially for large geographic areas
+3. Process: 
+   • Divide population into clusters
+   • Randomly select some clusters
+   • Survey all members of selected clusters
+4. Advantages: More efficient and economical, especially when individual listing impossible or field travel required
+5. Disadvantages: Can introduce more errors than other sampling methods if clusters significantly differ
+6. Applications: Market research and social studies for specific populations or geographic areas
+
+### Sample Size Calculation Formulas
+
+For Mean Estimation (μ):
+n = (N × σ²) / ((N-1)D + σ²)
+
+
+For Total Estimation:
+Same formula as mean estimation
+
+For Proportion Estimation (q = 1 - p):
+n = (N × p × q) / ((N-1)D + pq)
+
+
+Maximum Error Calculation:
+D = B² / 4
+
+
+Where:
+• n = sample size
+• N = population size
+• σ² = population variance
+• D = maximum tolerable error
+• p = success proportion
+• q = failure proportion (1-p)
+• B = desired confidence interval width
+
+## File 2: Ref. Amostragem.md
+
+### Reference Sources
+Educational Resources:
+1. IBGE (Brazilian Institute of Geography and Statistics)
+   • National School Health Survey (Pesquisa Nacional de Saúde do Escolar)
+   • Concepts and methods for statistical surveys
+   • URL: https://www.ibge.gov.br/estatisticas/sociais/justica-e-seguranca/9134-pesquisa-nacional-de-saude-do-escolar.html
+
+2. TSE (Superior Electoral Court)
+   • Electoral research registration and consultation
+   • Methodology for electoral polling
+   • URL: https://www.tse.jus.br/eleicoes/pesquisa-eleitorais/consulta-as-pesquisas-registradas
+
+### Educational Value
+These references provide:
+• Real-world applications of sampling methods in Brazilian institutions
+• Official methodological guidelines for statistical surveys
+• Practical examples of sampling in electoral and health research contexts
+
+## Summary for Educational Questions
+This content covers three fundamental sampling methods with practical applications, mathematical formulations for sample size calculations, and 
+authoritative reference sources. Key learning areas include understanding when to use each sampling method, calculating appropriate sample sizes, 
+recognizing potential biases, and applying these concepts in real-world research scenarios.
