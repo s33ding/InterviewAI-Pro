@@ -29,7 +29,7 @@ def main():
     topic_name = input("Topic name: ")
     source_folder = input("Source folder path: ")
     num_questions = int(input("Number of questions (default 2): ") or "2")
-    output_dir = input("Output directory (default 'questions'): ") or "questions"
+    output_dir = "questions"  # Fixed to 'questions' for shared libs
     
     config = {
         "topic_name": topic_name,

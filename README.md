@@ -16,7 +16,7 @@ InterviewAI-Pro is an AI-powered technical interview prep platform that transfor
          │                       │                       │                       │
          ▼                       ▼                       ▼                       ▼
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   input.json    │    │ topic_extracted │    │ topic_questions │    │   topic.py      │
+│   input.json    │    │ topic_extracted │    │ topic_questions │    │   topic_quiz.py      │
 │                 │    │   _content.txt  │    │     .md         │    │                 │
 │ • topic_name    │    │                 │    │                 │    │ • Full quiz     │
 │ • source_folder │    │ • Clean content │    │ • Discussion Q  │    │ • AI feedback   │
@@ -53,7 +53,7 @@ InterviewAI-Pro is an AI-powered technical interview prep platform that transfor
 - Reads questions from step 2
 - Uses Q chat AI to create interactive Python quiz
 - Integrates with AWS Bedrock for AI-powered feedback
-- Creates executable quiz file `{topic}.py`
+- Creates executable quiz file `{topic}_quiz.py`
 
 ## Usage
 
@@ -98,7 +98,7 @@ InterviewAI-Pro/
 └── {output_dir}/          # Generated content
     ├── {topic}_extracted_content.txt
     ├── {topic}_questions.md
-    └── {topic}.py
+    └── {topic}_quiz.py
 ```
 
 ## Development Phases
